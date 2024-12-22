@@ -38,7 +38,13 @@ Follow these steps to run the project:
     npm run dev
     ```
 
-4. **Open your browser and view the app:**
+4. **Test:**
+
+    ```bash
+    npm run test
+    ```
+
+5. **Open your browser and view the app:**
 
     ```plaintext
     http://localhost:5173
